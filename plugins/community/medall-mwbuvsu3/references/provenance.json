@@ -1,0 +1,19 @@
+{
+  "candidateId": "e9c9bd77-2803-46a7-ade0-536ee3499db3",
+  "projectId": "852ba061-ae03-4d8e-a26c-1cd1ba94afcc",
+  "runId": "fbc47f36-6173-4ac9-8de4-52d92471bd04",
+  "conversationId": "14877c62-a154-4080-9b87-523653f4b84c",
+  "provenance": {
+    "summary": "Detected from DESIGN.md after a successful run.",
+    "detectedAt": 1794385631439
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "DESIGN.md",
+      "label": "DESIGN.md",
+      "size": 9573,
+      "copied": true
+    }
+  ]
+}

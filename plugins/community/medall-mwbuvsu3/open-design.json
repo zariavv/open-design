@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "medall-mwbuvsu3",
+  "title": "MEDALL",
+  "version": "0.1.0",
+  "description": "--- version: alpha name: \"MEDALL\" description: \"Клиника эстетической медицины, СПб\" colors: accent: \"#F2D4B8\" background: \"#FFFFFF\" black: \"#1E1E1E\" border: \"#AAAAAA\" danger: \"#DE7B7B\" gray-300: \"#CCCCCC\" gray-400: \"#AAA",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
